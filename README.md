@@ -15,6 +15,12 @@ Screenshots:
 ![](images/img2.png)
 ![](images/img3.png)
 ![](images/img4.png)
+
+Unfortunately, I couldn't figure out how to run compute without getting the following error:
+
 ![](images/img5.png)
+
+Web GPU tests were all successful.
+
 ![](images/img6.png)
 ![](images/img7.png)
