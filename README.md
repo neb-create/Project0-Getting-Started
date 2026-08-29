@@ -9,10 +9,12 @@ Project 0 Getting Started
 
 ###
 
-Include screenshots, analysis, etc. (Remember, this is public, so don't put
-anything here that you don't want to share with the world.)
+Screenshots:
 
 ![](images/img1.png)
 ![](images/img2.png)
 ![](images/img3.png)
 ![](images/img4.png)
+![](images/img5.png)
+![](images/img6.png)
+![](images/img7.png)
